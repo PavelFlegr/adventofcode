@@ -1,0 +1,8 @@
+[1701620544] Log start
+[1701620544] Cmd: C:\Users\pavel\Downloads\llama-b1428-bin-win-avx2-x64\main.exe
+[1701620544] main: build = 1428 (6961c4b)
+[1701620544] main: built with MSVC 19.35.32217.1 for x64
+[1701620544] main: seed  = 1701620544
+[1701620544] main: llama backend init
+[1701620544] main: load the model and apply lora adapter, if any
+[1701620544] main: error: unable to load model
